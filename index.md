@@ -1,7 +1,7 @@
 
 # [Numele Tău]
 
-![Geodezie](/assests/img/geodezie.jpeg)
+![Geodezie](/assets/img/geodezie.jpeg)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
