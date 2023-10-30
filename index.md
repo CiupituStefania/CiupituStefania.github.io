@@ -1,6 +1,8 @@
 
 # [Numele Tău]
 
+![Geodezie](/assests/img/geodezie.jpeg)
+
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
 Bine ai venit pe pagina mea de internet de portofoliu! Sunt [Numele Tău], un student pasionat de Geodezie cu o dragoste pentru dezvoltarea web. Aici vei găsi o prezentare a experienței și a proiectelor mele.
